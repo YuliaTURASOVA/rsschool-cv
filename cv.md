@@ -9,7 +9,7 @@
 * [LinkedIn](https://www.linkedin.com/in/iuliia-turasova-345501256/)
 * [GitHub](https://github.com/YuliaTURASOVA)
 ***
-### Summary
+## Summary
 
 Passionate IT student since May 2022. I'm currently studying "Introduction to Computer Science" at HarvardX CS50x and improving my skills in coding. I've recently completed HTML/CSS basic course at OpenClassroom and am looking to expand my knowledge with the RS School "JavaScript/Front-end. Stage 0".
 
