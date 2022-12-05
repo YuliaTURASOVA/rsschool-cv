@@ -8,7 +8,7 @@
 ### Social media:
 * [LinkedIn](https://www.linkedin.com/in/iuliia-turasova-345501256/)
 * [GitHub](https://github.com/YuliaTURASOVA)
-***
+
 ## Summary
 
 Passionate IT student since May 2022. I'm currently studying "Introduction to Computer Science" at HarvardX CS50x and improving my skills in coding. I've recently completed HTML/CSS basic course at OpenClassroom and am looking to expand my knowledge with the RS School "JavaScript/Front-end. Stage 0".
@@ -26,7 +26,8 @@ For me, web development is a great opportunity to keep working remotely. Before 
 ### Code Example
 
 ![rsz_code_example](https://user-images.githubusercontent.com/119604235/205746169-b04282fc-ad0a-4fde-942b-02c5734fca43.jpg)
-***
+
+---
 ### Training / Courses
 
 1. English HTML on [GoIT](https://goit.global/ua/) (completed with certificate)
@@ -36,7 +37,7 @@ For me, web development is a great opportunity to keep working remotely. Before 
 2. Build Your First Web Pages With HTML and CSS on [OpenClassroom](https://openclassrooms.com) (completed)
 3. Learn Programming With JavaScript on [OpenClassroom](https://openclassrooms.com) (in progress)
 4. JavaScript/Front-end. Stage 0 on [RS School](https://rs.school/) (in progress)
-***
+---
 ### Languages
 
 1. Russian - native
