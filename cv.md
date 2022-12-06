@@ -11,11 +11,11 @@
 
 ## Summary
 
-Passionate IT student since May 2022. I'm currently studying "Introduction to Computer Science" at HarvardX CS50x and improving my skills in coding. I've recently completed HTML/CSS basic course at OpenClassroom and am looking to expand my knowledge with the RS School "JavaScript/Front-end. Stage 0".
+Passionate and determined IT student since May 2022. I'm currently studying "Introduction to Computer Science" at HarvardX CS50x and improving my skills in coding. I've recently completed HTML/CSS basic course at OpenClassroom and am looking to expand my knowledge with the RS School "JavaScript/Front-end. Stage 0".
 
-I'm working as freelance translator (RUS-ENG and ENG-RUS) but thinking about starting a carrer in web development. The reason for this transition is my relocation to Bordeaux, France in 2020. With my language pairs, further career in translation seems impossible.
+I'm working as a freelance translator (RUS-ENG and ENG-RUS) but thinking about starting a career in web development. The reason for this transition is my relocation to Bordeaux, France in 2020. With my language pairs, further career in translation seems impossible.
 
-For me, web development is a great opportunity to keep working remotely. Before plunging myself into deep learning, I've completed several short-term courses to understand if coding can become my passion. Now, at spend every evening with VS Code, trying to create my own website with recipes. Working on my own project keeps me motivated and disciplined.
+For me, web development is a great opportunity to keep working remotely and unleash my creativity. Before plunging myself into deep learning, I've completed several short-term courses to understand if coding can become my passion. Now, I spend every evening with VS Code, trying to create my own website with recipes. Working on my own project keeps me motivated and disciplined.
 
 ### Industry Skills
 
